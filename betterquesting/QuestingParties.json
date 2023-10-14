@@ -1,3 +1,26 @@
 {
-  "parties:9": {}
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "status:8": "MEMBER",
+          "uuid:8": "b0c91472-27d1-36d8-a2cf-4fd51ebebd31"
+        },
+        "1:10": {
+          "status:8": "OWNER",
+          "uuid:8": "c338e985-a1ff-396e-a6ee-8ecf707b422c"
+        },
+        "2:10": {
+          "status:8": "MEMBER",
+          "uuid:8": "f1b56e37-7bb1-310c-bff1-b1e529081b68"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "123"
+        }
+      }
+    }
+  }
 }
